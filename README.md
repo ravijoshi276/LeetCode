@@ -17,5 +17,10 @@ I aim to solve each problem efficiently. The process typically involves:
 3. Optimizing the solution using appropriate algorithms or data structures.
 
 ## How to Use:
-- Clone the repo using `git clone https://github.com/ravijoshi276/leetcode-solutions.git`.
+- Clone the repo using `git clone https://github.com/ravijoshi276/LeetCode/tree/main/leetcode-solutions`.
+
 - Navigate to the relevant folder and open the solution in the respective programming language.
+
+- You can copy the code and run it in any online compiler.
+- Also leetcode link to each problem is provided you can go and check it out on your own.
+
