@@ -21,6 +21,6 @@ I aim to solve each problem efficiently. The process typically involves:
 
 - Navigate to the relevant folder and open the solution in the respective programming language.
 
-- You can copy the code and run it in any online compiler or just paste the solution code in leetcode problem.
+- You can copy and paste the solution code in leetcode problem.
 - Also leetcode link to each problem is provided you can go and check it out on your own.
-
+- Almost all solution are optimal. If not optimal will be updated to an optimal solution as soon as i crack it.
